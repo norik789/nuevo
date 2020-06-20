@@ -1,9 +1,2 @@
-print ('5')
-print ('10')
-print ('50')
-print ('100')
-
-print ('500')
-print ('100')
-print ('500')
-print ('1000')
+import pandas as pd
+import numpy as np
